@@ -145,8 +145,8 @@ const NewProduct = () => {
                             className="select select-bordered"
                         >
                             <option value="SPORTS">Sports</option>
-                            <option value="VISION">Vision</option>
-                            <option value="SUNGLASSES">Sunglasses</option>
+                            <option value="CASUAL">Casual</option>
+                            <option value="HEELS">Heels</option>
                         </select>
                     </div>
 
